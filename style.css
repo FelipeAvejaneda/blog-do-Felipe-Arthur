@@ -160,9 +160,9 @@ text-indent: 20px;
 }
 #videus video{
  display: block;
- width: 20px;
- height: 20px;
- margin: 30px auto;
+ width: 50px;
+ height: 40px;
+ margin: 50px auto;
   object-fit: none;   
 }
 #patrocinadores img{
