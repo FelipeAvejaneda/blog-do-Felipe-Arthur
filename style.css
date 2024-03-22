@@ -168,9 +168,9 @@ text-indent: 20px;
 }
 #patrocinadores img{
     display: block;
-    width: 270px;
-    height: 300px;
-    margin: 6px auto;
+    width: 320px;
+    height: 350px;
+    margin: 10px auto;
     border-radius: 180%;
     object-fit: none;   
    }
