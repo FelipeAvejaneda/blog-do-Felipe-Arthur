@@ -160,9 +160,9 @@ text-indent: 20px;
 }
 #videus video{
  display: block;
- width: 10px;
- height: 30px;
- margin: 4px auto;
+ width: 1px;
+ height: 3px;
+ margin: 1px auto;
  border-radius: 10%;
  object-fit: none;   
 }
