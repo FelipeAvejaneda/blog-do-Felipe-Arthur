@@ -158,12 +158,12 @@ text-align: center;
 text-align: justify;
 text-indent: 20px;
 }
-#videus img{
+#videus img {
  display: block;
- width: 30px;
- height: 60px;
+ width: 3px;
+ height: 6px;
  margin: 4px;
- border-radius: 90%;
+ border-radius: 10%;
  object-fit: none;   
 }
 
