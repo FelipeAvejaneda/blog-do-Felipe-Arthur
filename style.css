@@ -176,10 +176,10 @@ text-indent: 20px;
 
 /*categorias*/
 
-#categorias-links{
+#links{
 padding: 5px;
 }
-#categorias-links ul li a {
+#links ul li a {
 display: flex;
 justify-content: space-between;
 text-decoration: none;
@@ -187,18 +187,18 @@ color: rgb(0, 0, 0);
 padding: 5px 0;
 }
 
-#categorias-links ul li a{
+#links ul li a{
 font-weight:700;
 color: rgb(0, 0, 0);
 }
 
-#categorias-links ul li a span {
+#links ul li a span {
 padding: 2px;
 background-color: grey;
 color: white;
 }
 
-#categorias-links ul li a:hover{
+#links ul li a:hover{
 color: grey;
 }
 
