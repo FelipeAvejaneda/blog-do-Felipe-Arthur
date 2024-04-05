@@ -183,13 +183,13 @@ padding: 5px;
 display: flex;
 justify-content: space-between;
 text-decoration: none;
-color: black;
+color: rgb(255, 255, 255);
 padding: 5px 0;
 }
 
 #categorias-links ul li a{
 font-weight:700;
-color: black;
+color: rgb(255, 255, 255);
 }
 
 #categorias-links ul li a span {
@@ -237,7 +237,7 @@ padding: 15px;
 
 footer a{
 text-decoration: none;
-color: green;
+color: rgb(255, 255, 255);
 }
 
 footer a:hover{
