@@ -7,7 +7,7 @@ list-style: none;
 }
 
 body{
-background-color: rgb(13, 0, 59);
+background-color: rgb(255, 255, 255);
 }
 
 
@@ -90,7 +90,7 @@ width: 30%;
 .container-main article{
 /*border: 1px solid grey;*/
 padding: 10px;
-background-color: rgb(13, 0, 59);
+background-color: rgb(255, 255, 255);
 margin: 15px 0;
 }
 
@@ -183,7 +183,7 @@ padding: 5px;
 display: flex;
 justify-content: space-between;
 text-decoration: none;
-color: rgb(14, 221, 228);
+color: rgb(15, 235, 243);
 padding: 5px 0;
 }
 
