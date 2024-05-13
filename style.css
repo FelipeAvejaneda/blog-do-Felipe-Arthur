@@ -50,7 +50,7 @@ margin-left: 10px;
 
 #menu li a, #cabecalho a{
 text-decoration: none;
-color: rgb(13, 0, 59);
+color: rgb(255, 255, 255);
 }
 
 
@@ -90,7 +90,7 @@ width: 30%;
 .container-main article{
 /*border: 1px solid grey;*/
 padding: 10px;
-background-color: rgb(255, 255, 255);
+background-color: rgb(13, 0, 59);
 margin: 15px 0;
 }
 
