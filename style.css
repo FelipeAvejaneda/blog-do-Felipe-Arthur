@@ -128,7 +128,7 @@ background-color: white;
 }
 
 .aside-item h2{
-background-color: #424242;
+background-color: #ffffff;
 color: white;
 text-align: center;
 padding: 5px 0 ;
@@ -183,13 +183,13 @@ padding: 5px;
 display: flex;
 justify-content: space-between;
 text-decoration: none;
-color: rgb(0, 0, 0);
+color: rgb(14, 221, 228);
 padding: 5px 0;
 }
 
 #links ul li a{
 font-weight:700;
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 }
 
 #links ul li a span {
